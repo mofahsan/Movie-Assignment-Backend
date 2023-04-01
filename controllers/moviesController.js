@@ -12,12 +12,14 @@ const getMovies =async (req,res,next) => {
 }
 
 const postMovies =async  (req,res,next) => {
-    try{
-   
+    try{   
         const {title,rating,releaseDate} = req.body
 
         if(!title || !rating || !releaseDate){
             return res.status(400).send({success:false,message:"All fields are mandatory"})
+        }
+        if(req.file){
+            req.body.image = req.file.filename
         }
 
         const ifexist = await MOVIEMODEL.findOne({is_active:1,title:title})

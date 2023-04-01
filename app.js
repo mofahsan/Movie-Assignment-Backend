@@ -5,6 +5,7 @@ const cors = require("cors")
 const app = express()
 const moviesRoute = require("./routes/moviesRoute")
 
+app.use(express.static("./uploads"))
 app.use(cors())
 app.use(express.json())
 app.use("/",moviesRoute)

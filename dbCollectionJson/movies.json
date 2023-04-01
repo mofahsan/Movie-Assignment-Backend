@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "6427f7d354b9fc3916697968"
+  },
+  "title": "krish ",
+  "rating": 3,
+  "releaseDate": "23 june 2012",
+  "is_active": 1,
+  "image": "1680340947809--krish.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f7f554b9fc391669796d"
+  },
+  "title": "Ace Ventura",
+  "rating": 4,
+  "releaseDate": "23 june 2013",
+  "is_active": 1,
+  "image": "1680340981677--ace ventura.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f81a54b9fc3916697972"
+  },
+  "title": "Matrix",
+  "rating": 5,
+  "releaseDate": "23 june 2011",
+  "is_active": 1,
+  "image": "1680341018306--matrix.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f85954b9fc3916697977"
+  },
+  "title": "Koi Mil Gaya",
+  "rating": 5,
+  "releaseDate": "23 March 2011",
+  "is_active": 1,
+  "image": "1680341081783--koi mil gaya.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f88854b9fc391669797c"
+  },
+  "title": "Shoot Em Up",
+  "rating": 5,
+  "releaseDate": "21 Jan 2013",
+  "is_active": 1,
+  "image": "1680341128168--shoot-em-up.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f8c654b9fc3916697981"
+  },
+  "title": "Om Shanti Om",
+  "rating": 3,
+  "releaseDate": "21 June 2015",
+  "is_active": 1,
+  "image": "1680341190471--om shanti om.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f91b54b9fc3916697986"
+  },
+  "title": "The Curse of the Black Pearl",
+  "rating": 4,
+  "releaseDate": "21 June 2016",
+  "is_active": 1,
+  "image": "1680341275719--pirates.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f96254b9fc391669798b"
+  },
+  "title": "Narnia",
+  "rating": 4,
+  "releaseDate": "11 Dec 2013",
+  "is_active": 1,
+  "image": "1680341346392--narnia.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f9b954b9fc3916697990"
+  },
+  "title": "John Wick",
+  "rating": 5,
+  "releaseDate": "11 Dec 2013",
+  "is_active": 1,
+  "image": "1680341433357--john-wick-art_1562107096.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427f9e754b9fc3916697993"
+  },
+  "title": "Justice League",
+  "rating": 5,
+  "releaseDate": "11 Dec 2014",
+  "is_active": 1,
+  "image": "1680341479647--justice.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fa3054b9fc3916697998"
+  },
+  "title": "Jurrasic world",
+  "rating": 5,
+  "releaseDate": "11 Dec 2014",
+  "is_active": 1,
+  "image": "1680341552472--jurrasic.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fa6d54b9fc391669799d"
+  },
+  "title": "Jaws",
+  "rating": 1,
+  "releaseDate": "11 Dec 2004",
+  "is_active": 1,
+  "image": "1680341613770--jaws.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427faa754b9fc39166979a0"
+  },
+  "title": "Joker",
+  "rating": 3,
+  "releaseDate": "11 Dec 2020",
+  "is_active": 1,
+  "image": "1680341671838--joker.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fae854b9fc39166979a3"
+  },
+  "title": "Superman Vs Batman",
+  "rating": 4,
+  "releaseDate": "11 Dec 2019",
+  "is_active": 1,
+  "image": "1680341736143--superman-vs-batman-f_120415013829.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fb2954b9fc39166979a6"
+  },
+  "title": "Wonder Woman",
+  "rating": 5,
+  "releaseDate": "11 Dec 2005",
+  "is_active": 1,
+  "image": "1680341801250--wonder woman.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fb7854b9fc39166979ab"
+  },
+  "title": "Resident Evil Extinction",
+  "rating": 2,
+  "releaseDate": "11 March 2006",
+  "is_active": 1,
+  "image": "1680341880459--Resident Evil Extinction.jfif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fbac54b9fc39166979ae"
+  },
+  "title": "Thor",
+  "rating": 3,
+  "releaseDate": "11 Dec 2007",
+  "is_active": 1,
+  "image": "1680341932488--Thor-4-Movie.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fbf854b9fc39166979b1"
+  },
+  "title": "Intersteller",
+  "rating": 5,
+  "releaseDate": "11 April 2020",
+  "is_active": 1,
+  "image": "1680342008932--interst.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fc2354b9fc39166979b4"
+  },
+  "title": "Wakanda Forever",
+  "rating": 3,
+  "releaseDate": "11 Dec 2022",
+  "is_active": 1,
+  "image": "1680342051311--11-27-black-panther.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427fc5454b9fc39166979b7"
+  },
+  "title": "Avengers",
+  "rating": 5,
+  "releaseDate": "11 Dec 2010",
+  "is_active": 1,
+  "image": "1680342100813--avenger.jfif",
+  "__v": 0
+}]
